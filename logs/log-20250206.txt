@@ -288,3 +288,47 @@ REASON: Outdated, RestoreState
  (73dda8e0)
 2025-02-06T11:52:37.2020722+01:00  [INF] [SimpleTcp.Server] disposed
  (16168744)
+2025-02-06T14:25:33.5887269+01:00  [INF] Starting VVVVatchdog (b87d9a9c)
+2025-02-06T14:25:33.9740451+01:00  [INF] Process manually started: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "vvvv", Process ID: 5000 (9ea5102a)
+2025-02-06T14:25:33.9768421+01:00  [INF] ImGUI: Actvivate Checkmark ON (75a14b04)
+2025-02-06T14:25:44.8870844+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:53695
+ (98651d96)
+2025-02-06T14:25:44.8888150+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:53695
+ (5b9d4d9a)
+2025-02-06T14:25:48.2498587+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:53695 disconnected
+ (4abdeef6)
+2025-02-06T14:25:48.2499507+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:53695
+ (f06e0988)
+2025-02-06T14:25:54.0697889+01:00  [INF] Stopping VVVVatchdog (1b0372eb)
+2025-02-06T14:25:54.0825537+01:00  [INF] [SimpleTcp.Server] exception while awaiting connections: System.Net.Sockets.SocketException (995): Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Net.Sockets.Socket>.GetResult(Int16 token)
+   at System.Net.Sockets.TcpListener.<AcceptTcpClientAsync>g__WaitAndWrap|32_0(ValueTask`1 task)
+   at SuperSimpleTcp.SimpleTcpServer.AcceptConnections()
+ (47202e5a)
+2025-02-06T14:25:54.0826756+01:00  [INF] [SimpleTcp.Server] stopped
+ (8dd69395)
+2025-02-06T14:25:54.0832580+01:00  [INF] [SimpleTcp.Server] disposed
+ (16168744)
+2025-02-06T14:26:43.6755590+01:00  [INF] Starting VVVVatchdog (b87d9a9c)
+2025-02-06T14:26:44.0512926+01:00  [INF] Process manually started: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (9ea5102a)
+2025-02-06T14:26:44.0539585+01:00  [INF] ImGUI: Actvivate Checkmark ON (75a14b04)
+2025-02-06T14:26:59.6541177+01:00  [INF] Process not running: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 5052, Reason "Reported by Executor as not running" (a6783e32)
+2025-02-06T14:27:13.6825916+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T14:27:37.6955446+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 23456, Reason "Ping Not Received within Timeout (19 s)" (fe534643)
+2025-02-06T14:27:51.7471781+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T14:28:15.7479289+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 25636, Reason "Ping Not Received within Timeout (19 s)" (fe534643)
+2025-02-06T14:28:29.7855346+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T14:28:45.4296474+01:00  [INF] Process not running: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 3512, Reason "Reported by Executor as not running" (a6783e32)
+2025-02-06T14:28:59.4637329+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T14:29:02.3273413+01:00  [INF] Stopping VVVVatchdog (1b0372eb)
+2025-02-06T14:29:02.3367536+01:00  [INF] [SimpleTcp.Server] exception while awaiting connections: System.Net.Sockets.SocketException (995): Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Net.Sockets.Socket>.GetResult(Int16 token)
+   at System.Net.Sockets.TcpListener.<AcceptTcpClientAsync>g__WaitAndWrap|32_0(ValueTask`1 task)
+   at SuperSimpleTcp.SimpleTcpServer.AcceptConnections()
+ (47202e5a)
+2025-02-06T14:29:02.3368496+01:00  [INF] [SimpleTcp.Server] stopped
+ (8dd69395)
+2025-02-06T14:29:02.3373736+01:00  [INF] [SimpleTcp.Server] disposed
+ (16168744)
