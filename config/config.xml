@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE ROOT PUBLIC "" ""[]>
+<Spread>
+  <Item CheckForPingBack="True" CMDArgs="-m" ExecutorArguments="-o &quot;C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl&quot; --package-repositories &quot;&quot; -m" ExecutorFilename="C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe" FPSChangeTime="0.1999968" HasPingBackClient="True" IsNotCompiled="True" IsRunning="True" PatchActive="True" PID="5000" Ping_Intervall="5" Ping_Timeout="19" Process_Name="vvvv" RemainingTimeOut="14" RestartWaitTime="14" VLPath="C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl" VVVVPath="C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe">
+    <PingBackPackage ApplicationPath="C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl" Current_Time="130.4119876" FPS="60.00096" FPSChangeTime="0.1999968" PID="5000" ProcessName="vvvv" Source_IP_Port="127.0.0.1:51567" VVVVHostPath="C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe" />
+  </Item>
+</Spread>

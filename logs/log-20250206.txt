@@ -1,0 +1,290 @@
+2025-02-06T08:47:07.5425083+01:00  [INF] Starting VVVVatchdog (b87d9a9c)
+2025-02-06T08:47:07.9845706+01:00  [INF] Process manually started: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (9ea5102a)
+2025-02-06T08:47:07.9864097+01:00  [INF] ImGUI: Actvivate Checkmark ON (75a14b04)
+2025-02-06T08:47:19.2133556+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:49315
+ (cc4a529a)
+2025-02-06T08:47:19.2150203+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:49315
+ (3c0b4aff)
+2025-02-06T08:47:53.5010140+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 14672, Reason "FPS didnt change for: 4.99992s)" (fe534643)
+2025-02-06T08:47:53.5532511+01:00  [INF] [SimpleTcp.Server] data receiver canceled, peer disconnected [127.0.0.1:49315]
+ (c5e0e200)
+2025-02-06T08:47:53.5533188+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:49315
+ (c2419586)
+2025-02-06T08:47:58.5370756+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T08:48:09.5199513+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:49321
+ (1b629c7b)
+2025-02-06T08:48:09.5200543+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:49321
+ (f74268e9)
+2025-02-06T08:50:35.7405706+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 5684, Reason "FPS didnt change for: 4.0166025s)" (fe534643)
+2025-02-06T08:50:35.7816688+01:00  [INF] [SimpleTcp.Server] data receiver canceled, peer disconnected [127.0.0.1:49321]
+ (b3d5baad)
+2025-02-06T08:50:35.7817538+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:49321
+ (f228f057)
+2025-02-06T08:50:40.7801473+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T08:50:52.4327524+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:49332
+ (f89c7d2b)
+2025-02-06T08:50:52.4328698+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:49332
+ (dc64600c)
+2025-02-06T08:51:06.3884964+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:49332 disconnected
+ (da1aabed)
+2025-02-06T08:51:06.3886854+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:49332
+ (aeb613c2)
+2025-02-06T08:51:19.6520509+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 24008, Reason "Ping Not Received within Timeout (13 s)" (fe534643)
+2025-02-06T08:51:24.7036643+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T08:51:35.7352187+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:49341
+ (03012619)
+2025-02-06T08:51:35.7353159+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:49341
+ (1557dcf1)
+2025-02-06T09:00:33.9665629+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 20512, Reason "FPS didnt change for: 4.266598s)" (fe534643)
+2025-02-06T09:00:34.0468576+01:00  [INF] [SimpleTcp.Server] data receiver canceled, peer disconnected [127.0.0.1:49341]
+ (e4c2b7ab)
+2025-02-06T09:00:34.0469166+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:49341
+ (7c88ac4a)
+2025-02-06T09:00:39.0178703+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T09:00:50.1331656+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:49382
+ (9beb4766)
+2025-02-06T09:00:50.1332496+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:49382
+ (e1d7b532)
+2025-02-06T09:07:36.9392982+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:49382 disconnected
+ (8c38fc55)
+2025-02-06T09:07:36.9393501+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:49382
+ (4be64b3e)
+2025-02-06T09:07:55.3710581+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 8020, Reason "Ping Not Received within Timeout (13 s)" (fe534643)
+2025-02-06T09:08:00.4072431+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T09:08:11.6002400+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:50116
+ (43c2a8e5)
+2025-02-06T09:08:11.6003808+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:50116
+ (8183c93d)
+2025-02-06T09:10:34.6285590+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:50116 disconnected
+ (cee22c6a)
+2025-02-06T09:10:34.6286003+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:50116
+ (aaf1c77f)
+2025-02-06T09:10:50.8306441+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 24840, Reason "Ping Not Received within Timeout (13 s)" (fe534643)
+2025-02-06T09:10:55.8823357+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T09:11:06.9751270+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:50135
+ (33f9b128)
+2025-02-06T09:11:06.9752098+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:50135
+ (3cc2ec00)
+2025-02-06T09:11:21.8413729+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:50135 disconnected
+ (f493d6fb)
+2025-02-06T09:11:21.8414114+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:50135
+ (5681e495)
+2025-02-06T09:11:46.1942875+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 20956, Reason "Ping Not Received within Timeout (19 s)" (fe534643)
+2025-02-06T09:11:51.2455702+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T09:12:02.3250105+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:50147
+ (89487011)
+2025-02-06T09:12:02.3250939+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:50147
+ (e30d075e)
+2025-02-06T09:12:59.3565933+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:50147 disconnected
+ (30e906d0)
+2025-02-06T09:12:59.3566696+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:50147
+ (278ae671)
+2025-02-06T09:13:18.3054436+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 27472, Reason "Ping Not Received within Timeout (0 s)" (fe534643)
+2025-02-06T09:13:23.3570679+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T09:13:23.3717490+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 26912, Reason "Ping Not Received within Timeout (0 s)" (fe534643)
+2025-02-06T09:13:28.4098688+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T09:13:39.6587726+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:50161
+ (d5f7fc7b)
+2025-02-06T09:13:39.6588575+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:50161
+ (93ac89d9)
+2025-02-06T09:14:36.2303470+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:50161 disconnected
+ (250f97fb)
+2025-02-06T09:14:36.2303843+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:50161
+ (6c652878)
+2025-02-06T09:14:47.2113700+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 19356, Reason "Ping Not Received within Timeout (10 s)" (fe534643)
+2025-02-06T09:14:52.2474491+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T09:15:03.5008944+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:50168
+ (48f17cd2)
+2025-02-06T09:15:03.5009810+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:50168
+ (e8997f10)
+2025-02-06T09:34:49.9661817+01:00  [FTL] Unexpected exception during Update: "OUTDATED: o: 0(-0) p: 1(-0) FolderChooser
+REASON: Outdated, RestoreState" (3f8e3c8d)
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> VL.Core.RuntimeCommandException: OUTDATED: o: 0(-0) p: 1(-0) FolderChooser
+REASON: Outdated, RestoreState
+   at VL.Core.RuntimeCommandException.Complain(String exceptionMessage, RuntimeCommand runtimeCommand)
+   at VL.Lang.Platforms.SwapHelpers.React(NodeContext nodeContext, SwapTroubleReaction troubleReaction, String innerMessage, String outerMessage, String exceptionMessage)
+   at VL.Lang.Platforms.SwapHelpers.OnReport(NodeContext nodeContext, String what, HotswapTrouble hotswapTrouble)
+   at VL.AppServices.CompilationHelper.Report(NodeContext context, String what, HotswapTrouble hotswapTrouble)
+   at VL.AppServices.Hotswap.SwappableVLObject`1.__Restore[TStateClass]()
+   at _VL_Watchonaut_.Watchonaut.FolderChooser_KIB11Ur7ChvOWD3bqmhaQlProgram_.Update(FolderChooser_KIB11Ur7ChvOWD3bqmhaQl __self, Context Context_In, String Label_In, Path Path_In, String Initial_Directory_In, IStyle Style_In, Context& Context_Out, Path& Path_Out) in C:\Users\elektromeier\Desktop\VVVVatchdog\dependencies\VL.Watchonaut.vl.1.cs:line 79
+   at _VL_Watchonaut_.Watchonaut.FolderChooser_KIB11Ur7ChvOWD3bqmhaQl.Update(Context Context_In, String Label_In, Path Path_In, String Initial_Directory_In, IStyle Style_In, Context& Context_Out, Path& Path_Out) in C:\Users\elektromeier\Desktop\VVVVatchdog\dependencies\VL.Watchonaut.vl.1.cs:line 1843
+   at _VL_Watchonaut_.Watchonaut.WatchOPatch_CProgram_.Imgui__TRACE__(WatchOPatch_C __self, PatchTracer __tracer, Context Context_In, String IP_In, Context& Context_Out, Boolean& DeleteWatch_o_patch_Out, String& state_Out, String& ExePath_Out, String& VVVVPath_Out, String& VLPath_Out) in C:\Users\elektromeier\Desktop\VVVVatchdog\dependencies\VL.Watchonaut.vl.1.cs:line 1652
+   at _VL_Watchonaut_.Watchonaut.WatchOPatch_CProgram_.Imgui(WatchOPatch_C __self, Context Context_In, String IP_In, Context& Context_Out, Boolean& DeleteWatch_o_patch_Out, String& state_Out, String& ExePath_Out, String& VVVVPath_Out, String& VLPath_Out) in C:\Users\elektromeier\Desktop\VVVVatchdog\dependencies\VL.Watchonaut.vl.1.cs:line 165
+   at _VL_Watchonaut_.Watchonaut.WatchOPatch_C.Imgui(Context Context_In, String IP_In, Context& Context_Out, Boolean& DeleteWatch_o_patch_Out, String& state_Out, String& ExePath_Out, String& VVVVPath_Out, String& VLPath_Out) in C:\Users\elektromeier\Desktop\VVVVatchdog\dependencies\VL.Watchonaut.vl.1.cs:line 84
+   at _VVVVatchdog_.__auto.VVVVatchdogApplication_LSNvyuGfZuVOZpn2ivxcFnProgram_.<>c__DisplayClass4_2.<Update__TRACE__>b__3(Object stateInput_150, IReadOnlyList`1 inputs_151, IReadOnlyList`1 incomingLinks_152, Object& stateOutput_161, Spread`1& outputs_162) in C:\Users\elektromeier\Desktop\VVVVatchdog\VVVVatchdog.vl.1.cs:line 926
+   at _VL_ImGui_.ReGui.ImmediateModeNode_C.<>c__DisplayClass3_0.<Update>b__0(Context Obj_In_52)
+   at VL.ImGui.Widget.Update(Context context)
+   at VL.ImGui.ToSkiaLayer.Update(Widget widget, Boolean dockingEnabled, Spread`1 fonts, IStyle Style)
+   at _VL_ImGui_Skia_.Graphics.Skia.Layer.ImGui_Pb0jmhYedzLP452JM5MUGn.Update(ICustomRegion Region_In, Boolean Docking_Enabled_In, Spread`1 Fonts_In, Boolean Add_Fullscreen_Window_In, IStyle Style_In, Boolean Use_Skia_Space_In, ILayer& Output_Out)
+   at _VVVVatchdog_.__auto.VVVVatchdogApplication_LSNvyuGfZuVOZpn2ivxcFnProgram_.Update__TRACE__(VVVVatchdogApplication_LSNvyuGfZuVOZpn2ivxcFn __self, PatchTracer __tracer) in C:\Users\elektromeier\Desktop\VVVVatchdog\VVVVatchdog.vl.1.cs:line 1058
+   at _VVVVatchdog_.__auto.VVVVatchdogApplication_LSNvyuGfZuVOZpn2ivxcFnProgram_.Update(VVVVatchdogApplication_LSNvyuGfZuVOZpn2ivxcFn __self) in C:\Users\elektromeier\Desktop\VVVVatchdog\VVVVatchdog.vl.1.cs:line 82
+   at _VVVVatchdog_.__auto.VVVVatchdogApplication_LSNvyuGfZuVOZpn2ivxcFn.Update() in C:\Users\elektromeier\Desktop\VVVVatchdog\VVVVatchdog.vl.1.cs:line 377
+   at InvokeStub_VVVVatchdogApplication_LSNvyuGfZuVOZpn2ivxcFn.Update(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at VL.Lang.Platforms.RuntimeInstance.Step(ITargetCompilation compilation)
+2025-02-06T09:34:49.9745859+01:00  [INF] Stopping VVVVatchdog (1b0372eb)
+2025-02-06T09:34:49.9838857+01:00  [INF] [SimpleTcp.Server] exception while awaiting connections: System.Net.Sockets.SocketException (995): Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Net.Sockets.Socket>.GetResult(Int16 token)
+   at System.Net.Sockets.TcpListener.<AcceptTcpClientAsync>g__WaitAndWrap|32_0(ValueTask`1 task)
+   at SuperSimpleTcp.SimpleTcpServer.AcceptConnections()
+ (47202e5a)
+2025-02-06T09:34:49.9839796+01:00  [INF] [SimpleTcp.Server] stopped
+ (8dd69395)
+2025-02-06T09:34:49.9848074+01:00  [INF] [SimpleTcp.Server] disconnected client: 127.0.0.1:50168
+ (ae8f1109)
+2025-02-06T09:34:49.9848364+01:00  [INF] [SimpleTcp.Server] data receiver canceled, peer disconnected [127.0.0.1:50168]
+ (7016c1f8)
+2025-02-06T09:34:49.9848554+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:50168
+ (f8727251)
+2025-02-06T09:34:49.9849547+01:00  [INF] [SimpleTcp.Server] disposed
+ (16168744)
+2025-02-06T10:24:57.1347359+01:00  [INF] Starting VVVVatchdog (b87d9a9c)
+2025-02-06T10:24:57.5829848+01:00  [INF] Process manually started: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "vvvv", Process ID: 7592 (9ea5102a)
+2025-02-06T10:24:57.5858401+01:00  [INF] ImGUI: Actvivate Checkmark ON (75a14b04)
+2025-02-06T10:25:08.6076720+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:50861
+ (993e2517)
+2025-02-06T10:25:08.6093226+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:50861
+ (58ba4d8e)
+2025-02-06T10:37:03.3379827+01:00  [INF] Stopping VVVVatchdog (1b0372eb)
+2025-02-06T10:37:03.3469506+01:00  [INF] [SimpleTcp.Server] exception while awaiting connections: System.Net.Sockets.SocketException (995): Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Net.Sockets.Socket>.GetResult(Int16 token)
+   at System.Net.Sockets.TcpListener.<AcceptTcpClientAsync>g__WaitAndWrap|32_0(ValueTask`1 task)
+   at SuperSimpleTcp.SimpleTcpServer.AcceptConnections()
+ (47202e5a)
+2025-02-06T10:37:03.3470437+01:00  [INF] [SimpleTcp.Server] stopped
+ (8dd69395)
+2025-02-06T10:37:03.3478155+01:00  [INF] [SimpleTcp.Server] disconnected client: 127.0.0.1:50861
+ (9080df43)
+2025-02-06T10:37:03.3478478+01:00  [INF] [SimpleTcp.Server] data receiver canceled, peer disconnected [127.0.0.1:50861]
+ (1957532b)
+2025-02-06T10:37:03.3478785+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:50861
+ (9a921d95)
+2025-02-06T10:37:03.3479161+01:00  [INF] [SimpleTcp.Server] disposed
+ (16168744)
+2025-02-06T11:14:18.7410660+01:00  [INF] Starting VVVVatchdog (b87d9a9c)
+2025-02-06T11:14:19.1470606+01:00  [INF] Process manually started: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "vvvv", Process ID: 7592 (9ea5102a)
+2025-02-06T11:14:19.1681272+01:00  [INF] ImGUI: Actvivate Checkmark ON (75a14b04)
+2025-02-06T11:14:29.9928411+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:51516
+ (7c7d3bd6)
+2025-02-06T11:14:29.9944450+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:51516
+ (66a6e8b2)
+2025-02-06T11:16:33.1992952+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:51516 disconnected
+ (c8e192fe)
+2025-02-06T11:16:33.1993749+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:51516
+ (5a1b7889)
+2025-02-06T11:16:46.4259840+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:51526
+ (f067437e)
+2025-02-06T11:16:46.4261385+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:51526
+ (a60d5a1b)
+2025-02-06T11:16:54.3076025+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:51526 disconnected
+ (a8784608)
+2025-02-06T11:16:54.3076843+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:51526
+ (8b471821)
+2025-02-06T11:17:28.3576033+01:00  [INF] Process not running: Process Name: "Args: ", Process ID: 0, Reason "Reported by Executor as not running" (a6783e32)
+2025-02-06T11:17:28.3582427+01:00  [INF] ImGUI: Actvivate Checkmark OFF (674bef62)
+2025-02-06T11:18:29.0411538+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" ", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T11:18:29.0413801+01:00  [INF] ImGUI: Actvivate Checkmark ON (75a14b04)
+2025-02-06T11:18:29.2044681+01:00  [INF] Process not running: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" ", Process ID: 8140, Reason "Reported by Executor as not running" (a6783e32)
+2025-02-06T11:18:30.2314744+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:51540
+ (1a65189c)
+2025-02-06T11:18:30.2315611+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:51540
+ (2e49a9f0)
+2025-02-06T11:18:37.6753868+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:51540 disconnected
+ (c988e9c1)
+2025-02-06T11:18:37.6754344+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:51540
+ (46c33294)
+2025-02-06T11:18:43.2320923+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T11:18:54.4081136+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:51550
+ (df21325e)
+2025-02-06T11:18:54.4082090+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:51550
+ (c01c4ee0)
+2025-02-06T11:18:58.6870196+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:51550 disconnected
+ (ca518dcc)
+2025-02-06T11:18:58.6870705+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:51550
+ (75c93e2d)
+2025-02-06T11:19:20.2968164+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 10196, Reason "Ping Not Received within Timeout (19 s)" (fe534643)
+2025-02-06T11:19:34.3349058+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T11:19:45.6421201+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:51560
+ (c873251b)
+2025-02-06T11:19:45.6422182+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:51560
+ (5c6adde2)
+2025-02-06T11:20:22.0334340+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:51560 disconnected
+ (c551fb47)
+2025-02-06T11:20:22.0334808+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:51560
+ (6a4a62a3)
+2025-02-06T11:20:22.1455786+01:00  [INF] Process not running: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 25196, Reason "Reported by Executor as not running" (a6783e32)
+2025-02-06T11:20:36.1674209+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-06T11:20:47.4212170+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:51567
+ (4f254d64)
+2025-02-06T11:20:47.4213290+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:51567
+ (ffab5ae1)
+2025-02-06T11:23:03.1173491+01:00  [INF] Stopping VVVVatchdog (1b0372eb)
+2025-02-06T11:23:03.1235610+01:00  [INF] [SimpleTcp.Server] exception while awaiting connections: System.Net.Sockets.SocketException (995): Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Net.Sockets.Socket>.GetResult(Int16 token)
+   at System.Net.Sockets.TcpListener.<AcceptTcpClientAsync>g__WaitAndWrap|32_0(ValueTask`1 task)
+   at SuperSimpleTcp.SimpleTcpServer.AcceptConnections()
+ (47202e5a)
+2025-02-06T11:23:03.1236223+01:00  [INF] [SimpleTcp.Server] stopped
+ (8dd69395)
+2025-02-06T11:23:03.1243159+01:00  [INF] [SimpleTcp.Server] disconnected client: 127.0.0.1:51567
+ (200ad4b6)
+2025-02-06T11:23:03.1243395+01:00  [INF] [SimpleTcp.Server] data receiver canceled, peer disconnected [127.0.0.1:51567]
+ (beaf117d)
+2025-02-06T11:23:03.1243587+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:51567
+ (e66b35d4)
+2025-02-06T11:23:03.1244008+01:00  [INF] [SimpleTcp.Server] disposed
+ (16168744)
+2025-02-06T11:49:48.3169308+01:00  [INF] Starting VVVVatchdog (b87d9a9c)
+2025-02-06T11:49:48.7243509+01:00  [INF] Process manually started: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "vvvv", Process ID: 5000 (9ea5102a)
+2025-02-06T11:49:48.7272418+01:00  [INF] ImGUI: Actvivate Checkmark ON (75a14b04)
+2025-02-06T11:49:59.9451494+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:51978
+ (aa90c9cb)
+2025-02-06T11:49:59.9469219+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:51978
+ (7861ddea)
+2025-02-06T11:51:44.5189922+01:00  [INF] Stopping VVVVatchdog (1b0372eb)
+2025-02-06T11:51:44.5283090+01:00  [INF] [SimpleTcp.Server] exception while awaiting connections: System.Net.Sockets.SocketException (995): Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Net.Sockets.Socket>.GetResult(Int16 token)
+   at System.Net.Sockets.TcpListener.<AcceptTcpClientAsync>g__WaitAndWrap|32_0(ValueTask`1 task)
+   at SuperSimpleTcp.SimpleTcpServer.AcceptConnections()
+ (47202e5a)
+2025-02-06T11:51:44.5284158+01:00  [INF] [SimpleTcp.Server] stopped
+ (8dd69395)
+2025-02-06T11:51:44.5292009+01:00  [INF] [SimpleTcp.Server] disconnected client: 127.0.0.1:51978
+ (5e0bb224)
+2025-02-06T11:51:44.5292358+01:00  [INF] [SimpleTcp.Server] data receiver canceled, peer disconnected [127.0.0.1:51978]
+ (08402b46)
+2025-02-06T11:51:44.5292636+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:51978
+ (c70515b7)
+2025-02-06T11:51:44.5292965+01:00  [INF] [SimpleTcp.Server] disposed
+ (16168744)
+2025-02-06T11:52:01.6991562+01:00  [INF] Starting VVVVatchdog (b87d9a9c)
+2025-02-06T11:52:02.0823295+01:00  [INF] Process manually started: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "vvvv", Process ID: 5000 (9ea5102a)
+2025-02-06T11:52:02.0850146+01:00  [INF] ImGUI: Actvivate Checkmark ON (75a14b04)
+2025-02-06T11:52:13.0144793+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:51991
+ (b687aebb)
+2025-02-06T11:52:13.0161233+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:51991
+ (886fd0f5)
+2025-02-06T11:52:37.1914740+01:00  [INF] Stopping VVVVatchdog (1b0372eb)
+2025-02-06T11:52:37.2009363+01:00  [INF] [SimpleTcp.Server] exception while awaiting connections: System.Net.Sockets.SocketException (995): Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Net.Sockets.Socket>.GetResult(Int16 token)
+   at System.Net.Sockets.TcpListener.<AcceptTcpClientAsync>g__WaitAndWrap|32_0(ValueTask`1 task)
+   at SuperSimpleTcp.SimpleTcpServer.AcceptConnections()
+ (47202e5a)
+2025-02-06T11:52:37.2010485+01:00  [INF] [SimpleTcp.Server] stopped
+ (8dd69395)
+2025-02-06T11:52:37.2019429+01:00  [INF] [SimpleTcp.Server] disconnected client: 127.0.0.1:51991
+ (09cd9e48)
+2025-02-06T11:52:37.2019894+01:00  [INF] [SimpleTcp.Server] data receiver canceled, peer disconnected [127.0.0.1:51991]
+ (90d7763b)
+2025-02-06T11:52:37.2020233+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:51991
+ (73dda8e0)
+2025-02-06T11:52:37.2020722+01:00  [INF] [SimpleTcp.Server] disposed
+ (16168744)

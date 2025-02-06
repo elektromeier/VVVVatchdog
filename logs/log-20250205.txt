@@ -1,0 +1,46 @@
+2025-02-05T10:15:34.4685730+01:00  [INF] Starting VVVVatchdog (b87d9a9c)
+2025-02-05T10:15:34.9241797+01:00  [INF] Process manually started: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "vvvv", Process ID: 4800 (9ea5102a)
+2025-02-05T10:15:34.9269432+01:00  [INF] ImGUI: Actvivate Checkmark ON (75a14b04)
+2025-02-05T10:15:46.2950035+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:50525
+ (a0b4040b)
+2025-02-05T10:15:46.2967320+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:50525
+ (05b34043)
+2025-02-05T10:16:08.2169782+01:00  [INF] Process not running: Process Name: "Args: ", Process ID: 0, Reason "Reported by Executor as not running" (a6783e32)
+2025-02-05T10:16:08.2176113+01:00  [INF] ImGUI: Actvivate Checkmark OFF (674bef62)
+2025-02-05T10:16:13.4672760+01:00  [INF] [SimpleTcp.Server] client 127.0.0.1:50525 disconnected
+ (5785b39f)
+2025-02-05T10:16:13.4674133+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:50525
+ (4b54c989)
+2025-02-05T10:17:57.1221001+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-05T10:17:57.1222675+01:00  [INF] ImGUI: Actvivate Checkmark ON (75a14b04)
+2025-02-05T10:18:08.0131786+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:50547
+ (d78a3fdb)
+2025-02-05T10:18:08.0133147+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:50547
+ (7c99a250)
+2025-02-05T10:32:42.3050549+01:00  [INF] Process killed: Process Name: "vvvvArgs: -o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process ID: 23980, Reason "FPS didnt change for: 4.0999346s)" (fe534643)
+2025-02-05T10:32:42.3717687+01:00  [INF] [SimpleTcp.Server] data receiver canceled, peer disconnected [127.0.0.1:50547]
+ (fdd793cb)
+2025-02-05T10:32:42.3718298+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:50547
+ (e697257c)
+2025-02-05T10:32:47.3575303+01:00  [INF] Process automatically restarted: Filename: "C:\Program Files\vvvv\vvvv_gamma_6.7\vvvv.exe", Aguments: "-o \"C:\Users\elektromeier\Desktop\VVVVatchdog\ExamplePatches\TestPatch2.vl\" --package-repositories \"\" -m", Process Name: "", Process ID: -1 (b0efe3d1)
+2025-02-05T10:32:58.2125041+01:00  [INF] [SimpleTcp.Server] starting data receiver for: 127.0.0.1:50878
+ (ad64e5b9)
+2025-02-05T10:32:58.2126227+01:00  [INF] [SimpleTcp.Server] data receiver started for client 127.0.0.1:50878
+ (39510377)
+2025-02-05T11:23:00.5088263+01:00  [INF] Stopping VVVVatchdog (1b0372eb)
+2025-02-05T11:23:00.5182596+01:00  [INF] [SimpleTcp.Server] exception while awaiting connections: System.Net.Sockets.SocketException (995): Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Net.Sockets.Socket>.GetResult(Int16 token)
+   at System.Net.Sockets.TcpListener.<AcceptTcpClientAsync>g__WaitAndWrap|32_0(ValueTask`1 task)
+   at SuperSimpleTcp.SimpleTcpServer.AcceptConnections()
+ (47202e5a)
+2025-02-05T11:23:00.5183534+01:00  [INF] [SimpleTcp.Server] stopped
+ (8dd69395)
+2025-02-05T11:23:00.5190357+01:00  [INF] [SimpleTcp.Server] disconnected client: 127.0.0.1:50878
+ (7a613daf)
+2025-02-05T11:23:00.5190872+01:00  [INF] [SimpleTcp.Server] data receiver canceled, peer disconnected [127.0.0.1:50878]
+ (699fd72b)
+2025-02-05T11:23:00.5191120+01:00  [INF] [SimpleTcp.Server] data receiver terminated for client 127.0.0.1:50878
+ (8cbf2e6e)
+2025-02-05T11:23:00.5191460+01:00  [INF] [SimpleTcp.Server] disposed
+ (16168744)
